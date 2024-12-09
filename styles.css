@@ -14,7 +14,7 @@ body{
 }
 
 .container {
-    background-color: beige;
+    background-color: rgb(0, 0, 0);
     border-radius: 8px;
     padding: 20px;
     box-shadow: 0 4px 8px rgba(0,0,0,1);
@@ -32,7 +32,8 @@ h1 {
     display: block;
     font-size: 14px;
     color: aliceblue;
-}
+}e:
+
 
 .input {
     width: 100%;
